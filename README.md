@@ -18,15 +18,7 @@ If the player correctly guesses all the letters in the word before the hangman i
 The player can input a single letter as a guess using the keyboard and ENTER key.
 Mouse inputs are used to click buttons for starting the game, selecting word categories, and playing again.
 ##### Categories:
-
-Fruits
-Flowers
-Places
-Animals
-Colors
-Countries
-Sports
-Professions
+Fruits, Flowers, Places, Animals, Colors, Countries, Sports, and Professions
 
 ## Technical Details
 The Hangman Game is implemented using the tkinter library in Python. The game features a graphical user interface (GUI) that allows the player to interact with the game using buttons and keyboard input. The game logic is implemented using functions and data structures.
