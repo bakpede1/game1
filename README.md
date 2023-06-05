@@ -49,7 +49,5 @@ Contributions to the Hangman Game project are welcome. If you encounter any issu
 ## Acknowledgments
 The Hangman Game project was inspired by the classic hangman game and aims to provide an interactive and enjoyable gaming experience.
 The project utilizes the tkinter library to create a graphical user interface.
-
-## Overview
 Overall, this Hangman game provides an enjoyable and interactive experience for players
 to test their word-guessing skills.
